@@ -15,5 +15,5 @@ To add the Quiz Bot to your Discord server, follow these steps:
 
 ## Commands
 
-- `!quiz`: Start a quiz with 10 random questions.
+- `!quiz`: Start a quiz with 5 random questions.
 
